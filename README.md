@@ -1,6 +1,6 @@
 # Capture Photo Plugin  
 
-A simple JavaScript plugin that allows users to capture a photo using their device's camera and download it as a PNG file. Built with pure JavaScript (no dependencies).  
+A simple plugin built with native JavaScript that allows users to capture a photo using their device's camera and download it as a file.
 
 ## Installation  
 

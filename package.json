@@ -1,7 +1,7 @@
 {
 	"name": "capture-photojs",
 	"version": "1.0.0",
-	"description": "Simple installable javascript plugin to click and download photos using device media api",
+	"description": "A simple plugin built with native JavaScript that allows users to capture a photo using their device's camera and download it as a file.",
 	"main": "src/index.js",
 	"module": "src/index.js",
 	"keywords": [
@@ -11,6 +11,10 @@
 		"js",
 		"photosa"
 	],
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/ankitarora05/capture_photo.git"
+	},
 	"author": "Ankit Arora",
 	"license": "MIT"
 }
