@@ -1,0 +1,16 @@
+{
+	"name": "capture-photojs",
+	"version": "1.0.0",
+	"description": "Simple installable javascript plugin to click and download photos using device media api",
+	"main": "src/index.js",
+	"module": "src/index.js",
+	"keywords": [
+		"jsphoto",
+		"camera",
+		"capture",
+		"js",
+		"photosa"
+	],
+	"author": "Ankit Arora",
+	"license": "MIT"
+}
